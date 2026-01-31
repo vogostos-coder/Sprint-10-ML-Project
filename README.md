@@ -1,28 +1,28 @@
-# Sprint-10-ML-Project
+# Sprint 10 – Machine Learning Regression
 
-## Context
-Machine Learning regression project focused on comparing different models and evaluating their performance from a practical, decision-oriented perspective.
+## Contexto
+Proyecto de regresión de aprendizaje automático centrado en comparar diferentes modelos y evaluar su rendimiento desde una perspectiva práctica y orientada a la toma de decisiones.
 
-## Objective
-Train and evaluate regression models to select the most appropriate option based on objective metrics and generalization capability.
+## Objetivo
+Entrenar y evaluar modelos de regresión para seleccionar la opción más adecuada en función de métricas objetivas y capacidad de generalización.
 
-## Models Evaluated
-- Linear Regression  
-- Decision Tree  
-- Random Forest Regressor  
+## Modelos evaluados
+- Regresión lineal  
+- Árbol de decisiones  
+- Regresor de bosque aleatorio  
 
-## Evaluation Metric
+## Métrica de evaluación
 - RMSE (Root Mean Squared Error)
 
-## Process
-- Dataset split into training, validation, and test sets  
-- Hyperparameter tuning  
-- Model performance comparison  
-- Final evaluation on the test set  
-- Sanity check to validate model consistency  
+## Proceso
+- División del conjunto de datos en entrenamiento, validación y prueba  
+- Ajuste de hiperparámetros  
+- Comparación del desempeño entre modelos  
+- Evaluación final sobre el conjunto de prueba  
+- Prueba de cordura (sanity check) para validar la consistencia del modelo  
 
-## Final Model
-- Random Forest Regressor
+## Modelo final
+- Regresor de bosque aleatorio  
 
-## Conclusion
-This project highlights the importance of model comparison, validation, and prioritizing stability and generalization over algorithm complexity. The main value lies in the analytical process and informed decision-making rather than the final metric alone.
+## Conclusión
+Este proyecto refuerza la importancia de comparar modelos, validar resultados y priorizar la estabilidad y la capacidad de generalización sobre la complejidad del algoritmo. El verdadero valor del Machine Learning está en el criterio analítico y en la toma de decisiones informadas, no únicamente en la métrica final.
