@@ -1,5 +1,4 @@
-# Sprint 10 – Machine Learning Regression
-
+# comparativa-modelos-regresion-y-arbol
 ## Contexto
 Proyecto de regresión de aprendizaje automático centrado en comparar diferentes modelos y evaluar su rendimiento desde una perspectiva práctica y orientada a la toma de decisiones.
 
